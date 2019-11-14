@@ -1,0 +1,4 @@
+Doku für die Klasse 'log'.
+
+Geliefert werden drei Methoden info/warning/critical, die die angegebene Nachricht mit einem Prefix
+in das Log schreibt.

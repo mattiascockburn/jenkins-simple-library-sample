@@ -1,0 +1,10 @@
+Das ist Doku für die Funktion sayHello.
+
+Viel gibt es ja nicht zu dokumentieren, da die Funktion nur einen Parameter (den Namen annimmt).
+Per Default wird 'Hello World!' in das Log geschrieben.
+
+Beispiel:
+
+sayHello 'Klaus'
+
+schreibt 'Hello Klaus!' in das Log.
